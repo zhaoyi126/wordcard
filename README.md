@@ -1,5 +1,7 @@
 # wordcard
 英语词根词缀，单词卡片
+https://cihuibao.cn/article/show/50077
+
 
 https://en.tooldog.cn/lang/wordlist 单词
 
